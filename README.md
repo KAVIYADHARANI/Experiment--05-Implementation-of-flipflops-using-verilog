@@ -197,12 +197,16 @@ endmodule
 ### RTL LOGIC FOR T-FLIPFLOP 
 ![image](https://github.com/KAVIYADHARANI/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870680/2b7826fb-ce1b-4de9-a305-d9eccafa7ed4)
 
+
 ### TRUTH TABLE FOR T-FLIPFLOP
 ![image](https://github.com/KAVIYADHARANI/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870680/4083c6da-8e0a-4764-b854-42e3273560df)
+
 
 ### TIMING DIGRAMS FOR T-FLIP FLOP
 ![image](https://github.com/KAVIYADHARANI/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870680/f7745541-8398-45e4-b104-011aa2fab9dc)
 
+
 ### RESULTS 
+
 Thus implementation of SR,JK,D and T flipflops using nand gates are done sucessfully
 
